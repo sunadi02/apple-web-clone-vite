@@ -8,6 +8,9 @@ export default defineConfig({
   plugins: [react(), tailwindcss(), sentryVitePlugin({
     org: "jsm-iz",
     project: "javascript-react"
+  }), sentryVitePlugin({
+    org: "jsm-iz",
+    project: "javascript-react"
   })],
 
   build: {
