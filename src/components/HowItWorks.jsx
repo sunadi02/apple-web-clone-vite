@@ -25,6 +25,7 @@ const HowItWorks = () => {
             duration:1,
             ease:'power2.inOut'
         })
+        
     }, [])
 
   return (
@@ -86,7 +87,7 @@ const HowItWorks = () => {
 
               <div className="flex flex-1 justify-end flex-col w-1/2 ">
 
-                <p className="hiw-text">New</p>
+                <p className="hiw-text ">New</p>
                 <p className="hiw-bigtext">Pro-class GPU</p>
                 <p className="hiw-text">with 6 cores</p>
               </div>
