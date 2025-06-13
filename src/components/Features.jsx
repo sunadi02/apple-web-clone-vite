@@ -32,7 +32,7 @@ const Features = () => {
   }, []);
 
   return (
-    <section className="h-full common-padding bg-zinc relative overflow-hidden">
+    <section className="h-full common-padding bg-[#101010] relative overflow-hidden">
       <div className="screen-max-wdith">
         <div className="mb-12 w-full">
           <h1 id="features_title" className="section-heading">Explore the full story.</h1>
@@ -61,8 +61,9 @@ const Features = () => {
                 </div>
               </div>
 
-              <div className="feature-text-container">
-                <div className="flex-1 flex-center">
+              <div className="feature-text-container flex md:flex-row flex-col justify-between items-start w-full pl-12 ">
+                
+                <div className="flex-1 flex flex-col justify-start text-left pt-4">
                   <p className="feature-text g_text">
                     iPhone 15 Pro is {' '}
                     <span className="text-white">
@@ -72,7 +73,8 @@ const Features = () => {
                   </p>
                 </div>
 
-                <div className="flex-1 flex-center">
+                
+                <div className="flex-1 flex flex-col justify-end pl-10">
                   <p className="feature-text g_text">
                     Titanium has one of the best strength-to-weight ratios of any metal, making these our {' '}
                     <span className="text-white">
@@ -81,9 +83,8 @@ const Features = () => {
                     You'll notice the difference the moment you pick one up.
                   </p>
                 </div>
-
-
               </div>
+
             </div>
           </div>
         </div>
