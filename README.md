@@ -1,3 +1,30 @@
+# 🍏 Apple iPhone 15 Pro Website Clone
+
+This is a fully responsive, feature-rich **Apple iPhone 15 Pro website clone**, built using modern web technologies to enhance **my front-end development skills**.
+
+## ⚙️ Tech Stack
+- **React.js** - Component-based UI development.
+- **Vite** - Super-fast build tooling.
+- **Tailwind CSS 4** - Utility-first styling.
+- **Three.js** & **React Three Fiber** - 3D rendering.
+- **@react-three/drei** - Simplified Three.js utilities.
+- **GSAP (Greensock)** - Smooth animations & transitions.
+
+## 🔋 Features
+👉 **Smooth GSAP Animations** – Adds seamless **page transitions and interactivity**.  
+👉 **3D iPhone Model Rendering** – View the iPhone **in different colors and sizes** using Three.js.  
+👉 **Custom Video Carousel** – Interactive **GSAP-powered video sections**.  
+👉 **Fully Responsive Design** – Optimized for **all devices and screen sizes**.  
+👉 **Optimized Performance** – Tailwind CSS 4 ensures **fast rendering** and clean UI styling.  
+
+## 🚀 Quick Start
+To run this project locally, follow these steps:
+
+1️⃣ Clone the repo:
+```bash
+git clone https://github.com/sunadi02/apple-web-clone-vite
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
