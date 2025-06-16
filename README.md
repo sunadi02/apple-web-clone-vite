@@ -1,4 +1,4 @@
-# 🍏 Apple iPhone 15 Pro Website Clone
+# Apple iPhone 15 Pro Website Clone
 
 This is a fully responsive, feature-rich **Apple iPhone 15 Pro website clone**, built using modern web technologies to enhance **my front-end development skills**.
 
